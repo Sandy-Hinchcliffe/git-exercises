@@ -1,0 +1,2 @@
+This s a conflict of merges 
+ and now it's fixed
